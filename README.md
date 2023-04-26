@@ -5,7 +5,7 @@
 ## A023119820034
 
 
-This is the solution for the assignment given by Techodome for the data scientist internship applicants. The problem states that a dataset is given with the dog images showing differnt emotions viz. sad, angry, relaxed and happy and a ML model is build, train and deployed.
+This is the solution for the assignment given by Techodome for the data scientist internship applicants. The problem states that a dataset is given with the dog images showing different emotions viz. sad, angry, relaxed and happy and a ML model is build, train and deployed.
 The model is to be deployed in the form of an API using flask.
 
 
